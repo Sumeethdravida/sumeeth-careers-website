@@ -1,2 +1,2 @@
-# sumeeth-careers-website
-A careers website
+# Metalicular Fortitude
+Merchandise Website
